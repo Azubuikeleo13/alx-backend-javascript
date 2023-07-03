@@ -5,7 +5,7 @@
  *   firstName: String,
  *   location: String
  * }[]} students - The list of students.
- * @Leo Azubuike <https://github.com/Azubuikeleo13>
+ * @author Leo Azubuike <https://github.com/Azubuikeleo13>
  * @returns
  */
 export default function getListStudentIds(students) {
