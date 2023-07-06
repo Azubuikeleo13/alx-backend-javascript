@@ -59,6 +59,7 @@ const styleSheet = `
  * @param students The list of students to display.
  * @author Bezaleel Olakunori <https://github.com/B3zaleel>
  */
+
 export const displayStudents = (students: Array<Student>): void => {
   const table = document.createElement('table');
   const tableHead = document.createElement('thead');
